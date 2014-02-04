@@ -1,0 +1,4 @@
+name: SnowInferno's blog
+markdown: redcarpet
+pygments: true
+baseurl: /
